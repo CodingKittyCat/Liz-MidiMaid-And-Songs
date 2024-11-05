@@ -1,0 +1,18 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Main",
+      "Transpose": 0,
+      "Instrument": 0,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}

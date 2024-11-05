@@ -1,0 +1,33 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Piano",
+      "Transpose": 0,
+      "Instrument": 2,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "Lute",
+      "Transpose": 0,
+      "Instrument": 3,
+      "AssignedCids": [
+        18014498566924221,
+        18014498565452949,
+        18014498556020747,
+        0,
+        -1,
+        -1
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}

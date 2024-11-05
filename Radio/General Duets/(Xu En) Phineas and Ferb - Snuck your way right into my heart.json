@@ -1,0 +1,29 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Panpipes",
+      "Transpose": 0,
+      "Instrument": 9,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "ElectricGuitar:Clean",
+      "Transpose": 0,
+      "Instrument": 25,
+      "AssignedCids": [
+        18014498566924221,
+        0
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}
