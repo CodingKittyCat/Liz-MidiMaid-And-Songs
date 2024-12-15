@@ -3,9 +3,9 @@
     {
       "Index": 0,
       "Enabled": true,
-      "Name": "Acoustic Grand Piano",
+      "Name": "Viola",
       "Transpose": 0,
-      "Instrument": 2,
+      "Instrument": 21,
       "AssignedCids": [
         18014498572189347,
         0
@@ -14,14 +14,12 @@
     {
       "Index": 1,
       "Enabled": true,
-      "Name": "Acoustic Grand Piano-2",
-      "Transpose": -24,
-      "Instrument": 2,
+      "Name": "Cello",
+      "Transpose": 0,
+      "Instrument": 22,
       "AssignedCids": [
         18014498558170704,
-        18014498566924221,
-        0,
-        -1
+        0
       ]
     }
   ],
