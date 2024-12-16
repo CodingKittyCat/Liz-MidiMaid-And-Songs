@@ -3,9 +3,9 @@
     {
       "Index": 0,
       "Enabled": true,
-      "Name": "Untitled",
+      "Name": "Viola",
       "Transpose": 0,
-      "Instrument": 2,
+      "Instrument": 21,
       "AssignedCids": [
         18014498572189347,
         0
@@ -14,13 +14,12 @@
     {
       "Index": 1,
       "Enabled": true,
-      "Name": "Untitled",
+      "Name": "Cello",
       "Transpose": 0,
-      "Instrument": 3,
+      "Instrument": 22,
       "AssignedCids": [
-        18014498566924221,
-        0,
-        -1
+        18014498558170704,
+        0
       ]
     }
   ],
