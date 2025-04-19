@@ -14,6 +14,54 @@ Maids, however, aren't miracle beings! It'll still require some fine tuning here
 
 ---
 
+## ✨ Features
+
+Here’s everything The MIDI Maid can do for your messy little MIDI files:
+
+---
+
+### 🎼 Pitch Remapping to C3–C6
+- Ensures all notes fall within the FFXIV play-safe range (C3–C6)
+- Notes outside this range are transposed up or down by octaves
+- Keeps everything musically intact and playable
+
+---
+
+### 🧹 Decluttering (Chord Reduction)
+- Reduces dense or unplayable chords down to a maximum of **4 notes at once**
+- Keeps essential harmony while improving MIDI performance usability
+- Perfect for mimicking solo/duet performance constraints
+
+---
+
+### 🧠 Key-Aware Remapping
+- Preserves musical key signatures while shifting notes into playable range
+- Great for ensuring transposed MIDIs still *sound* right
+- Smart selection of octave shifts per note to avoid dissonance
+
+---
+
+### 🎛 Track-by-Track Control
+- Lets you choose **specific tracks** to clean, or just say `"all"`
+- Gives you a quick overview of each track's note count
+- Useful for splitting out instruments, percussion, or vocals
+
+---
+
+### 🧺 Simple, Guided Workflow
+- File picker: Choose your input MIDI
+- Folder picker: Select output destination
+- Menu: Choose how you’d like to clean it
+- Prompt: Pick which tracks to clean
+
+---
+
+### 🍰 Cute & Custom Output Naming
+- Automatically names cleaned files like: (Elizabeth Grimthane) Song Name.mid
+This will include a custom author name in the future!
+
+---
+
 ## 🧹 How Does It Work?
 
 It's super simple! Once you open the program, The MIDI Maid will guide you through her cleaning ritual, one dainty step at a time:
