@@ -10,6 +10,7 @@ Written and maintained with love by **Elizabeth Grimthane**
 
 **The MIDI Maid** is a charming little command-line helper designed to clean, tidy, and prep your MIDI files for use in things like *Final Fantasy XIV* performances.  
 She sweeps up cluttered notes, gently remaps pitch ranges, and ensures everything sounds lovely for your in-game concerts!
+Maids, however, aren't miracle beings! It'll still require some fine tuning here and there to create the perfect track. However, you should be well on your way with the MidiMaid :)
 
 ---
 
