@@ -1,5 +1,3 @@
-
-
 # 🌸 The MIDI Maid 🌸  
 #### Your faithful music-servant for cleaning up messy MIDIs ~  
 Written and maintained with love by **Elizabeth Grimthane**  
@@ -9,8 +7,10 @@ Written and maintained with love by **Elizabeth Grimthane**
 ## 💡 What is The MIDI Maid?
 
 **The MIDI Maid** is a charming little command-line helper designed to clean, tidy, and prep your MIDI files for use in things like *Final Fantasy XIV* performances.  
-She sweeps up cluttered notes, gently remaps pitch ranges, and ensures everything sounds lovely for your in-game concerts! </br> </br>
-Maids, however, aren't miracle beings! It'll still require some fine tuning here and there to create the perfect track. However, you should be well on your way with the MidiMaid :)
+She sweeps up cluttered notes, gently remaps pitch ranges, and ensures everything sounds lovely for your in-game concerts!
+
+Maids, however, aren't miracle beings! It'll still require some fine-tuning here and there to create the perfect track.  
+But you should be well on your way with The MIDI Maid by your side. ✨
 
 ---
 
@@ -35,7 +35,7 @@ Here’s everything The MIDI Maid can do for your messy little MIDI files:
 ---
 
 ### 🧠 Key-Aware Remapping
-- Preserves musical key signatures while shifting notes into playable range
+- Preserves musical key signatures while shifting notes into a playable range
 - Great for ensuring transposed MIDIs still *sound* right
 - Smart selection of octave shifts per note to avoid dissonance
 
@@ -57,8 +57,9 @@ Here’s everything The MIDI Maid can do for your messy little MIDI files:
 ---
 
 ### 🍰 Cute & Custom Output Naming
-- Automatically names cleaned files like: (Elizabeth Grimthane) Song Name.mid
-This will include a custom author name in the future!
+- Automatically names cleaned files like:  
+  `(Elizabeth Grimthane) Song Name.mid`  
+- This will include a custom author name in the future!
 
 ---
 
@@ -69,8 +70,8 @@ It's super simple! Once you open the program, The MIDI Maid will guide you throu
 ---
 
 ### 🪞 Step 1: Select Your MIDI File  
-When prompted, a file picker will magically appear!  
-Just select the `.mid` file you want The Maid to work on.  
+When prompted, a file picker will magically appear.  
+Just select the `.mid` file you want The Maid to work on.
 
 ---
 
@@ -118,7 +119,7 @@ Type their numbers, like:
 0, 1
 ```
 
-The Maid will handle the rest with poise and grace 🌟
+The Maid will handle the rest with poise and grace. 🌟
 
 ---
 
@@ -146,5 +147,4 @@ She'll be waiting, feather duster in hand.
 
 ---
 
-Side note: This repository also includese my personal midi files.
-
+_This repository also includes my personal MIDI files for demonstration or performance use._
