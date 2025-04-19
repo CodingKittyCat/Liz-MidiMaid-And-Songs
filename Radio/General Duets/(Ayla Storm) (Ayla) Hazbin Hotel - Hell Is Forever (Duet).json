@@ -5,10 +5,12 @@
       "Enabled": true,
       "Name": "Piano",
       "Transpose": 0,
-      "Instrument": 2,
+      "Instrument": 25,
       "AssignedCids": [
+        18014498572189347,
         18014498566924221,
-        0
+        0,
+        -1
       ]
     },
     {
@@ -16,9 +18,9 @@
       "Enabled": true,
       "Name": "Program:ElectricGuitar",
       "Transpose": 0,
-      "Instrument": 24,
+      "Instrument": 27,
       "AssignedCids": [
-        18014498572189347,
+        18014498575953305,
         0
       ]
     }

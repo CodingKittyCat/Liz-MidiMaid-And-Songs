@@ -1,0 +1,40 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Saxophone",
+      "Transpose": 0,
+      "Instrument": 19,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "Harp",
+      "Transpose": 0,
+      "Instrument": 1,
+      "AssignedCids": [
+        18014498575953305,
+        0
+      ]
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "Name": "Lute+1",
+      "Transpose": 12,
+      "Instrument": 3,
+      "AssignedCids": [
+        18014498558170704,
+        0
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}

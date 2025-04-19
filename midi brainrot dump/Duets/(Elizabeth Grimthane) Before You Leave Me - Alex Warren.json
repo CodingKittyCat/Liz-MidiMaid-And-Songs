@@ -1,0 +1,29 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Electric Guitar Overdriven",
+      "Transpose": -12,
+      "Instrument": 25,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "Electric Guitar Clean",
+      "Transpose": -12,
+      "Instrument": 24,
+      "AssignedCids": [
+        18014498575953305,
+        0
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}

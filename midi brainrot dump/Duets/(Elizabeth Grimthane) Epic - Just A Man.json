@@ -1,0 +1,29 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Viola",
+      "Transpose": 0,
+      "Instrument": 21,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "Piano",
+      "Transpose": 0,
+      "Instrument": 2,
+      "AssignedCids": [
+        18014498575953305,
+        0
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}

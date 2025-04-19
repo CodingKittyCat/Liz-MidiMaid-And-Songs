@@ -1,0 +1,41 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "ElectricGuitarClean+2",
+      "Transpose": 24,
+      "Instrument": 25,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "ElectricGuitarClean-2",
+      "Transpose": -24,
+      "Instrument": 25,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "Name": "ElectricGuitarClean",
+      "Transpose": 0,
+      "Instrument": 25,
+      "AssignedCids": [
+        18014498575953305,
+        0,
+        -1
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}

@@ -5,7 +5,7 @@
       "Enabled": true,
       "Name": "Piano",
       "Transpose": 0,
-      "Instrument": 2,
+      "Instrument": 25,
       "AssignedCids": [
         18014498572189347,
         0
@@ -16,10 +16,12 @@
       "Enabled": true,
       "Name": "Cello",
       "Transpose": 0,
-      "Instrument": 22,
+      "Instrument": 27,
       "AssignedCids": [
+        18014498575953305,
         18014498566924221,
-        0
+        0,
+        -1
       ]
     }
   ],

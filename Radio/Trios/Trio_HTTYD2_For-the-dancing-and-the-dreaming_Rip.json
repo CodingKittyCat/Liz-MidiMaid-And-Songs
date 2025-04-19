@@ -3,9 +3,9 @@
     {
       "Index": 0,
       "Enabled": true,
-      "Name": "Viola",
+      "Name": "Lute",
       "Transpose": 0,
-      "Instrument": 21,
+      "Instrument": 3,
       "AssignedCids": [
         18014498572189347,
         0
@@ -14,9 +14,20 @@
     {
       "Index": 1,
       "Enabled": true,
-      "Name": "Cello",
+      "Name": "Flute",
       "Transpose": 0,
-      "Instrument": 22,
+      "Instrument": 5,
+      "AssignedCids": [
+        18014498575953305,
+        0
+      ]
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "Name": "Fife",
+      "Transpose": 0,
+      "Instrument": 8,
       "AssignedCids": [
         18014498558170704,
         0

@@ -5,7 +5,7 @@
       "Enabled": true,
       "Name": "Harp",
       "Transpose": 0,
-      "Instrument": 1,
+      "Instrument": 25,
       "AssignedCids": [
         18014498572189347,
         0
@@ -15,11 +15,13 @@
       "Index": 1,
       "Enabled": true,
       "Name": "Lute+1",
-      "Transpose": 12,
-      "Instrument": 3,
+      "Transpose": 0,
+      "Instrument": 25,
       "AssignedCids": [
+        18014498575953305,
         18014498566924221,
-        0
+        0,
+        -1
       ]
     }
   ],

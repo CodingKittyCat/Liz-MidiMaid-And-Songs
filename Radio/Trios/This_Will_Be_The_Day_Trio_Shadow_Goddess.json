@@ -1,0 +1,40 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Panpipes",
+      "Transpose": 0,
+      "Instrument": 9,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "DoubleBass",
+      "Transpose": 0,
+      "Instrument": 23,
+      "AssignedCids": [
+        18014498575953305,
+        0
+      ]
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "Name": "ElectricGuitarOverdriven",
+      "Transpose": 0,
+      "Instrument": 24,
+      "AssignedCids": [
+        18014498558170704,
+        0
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}

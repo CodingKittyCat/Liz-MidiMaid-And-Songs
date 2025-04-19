@@ -4,8 +4,8 @@
       "Index": 0,
       "Enabled": true,
       "Name": "Piano",
-      "Transpose": 0,
-      "Instrument": 2,
+      "Transpose": 12,
+      "Instrument": 25,
       "AssignedCids": [
         18014498572189347,
         0
@@ -15,12 +15,14 @@
       "Index": 1,
       "Enabled": true,
       "Name": "Lute",
-      "Transpose": 0,
-      "Instrument": 3,
+      "Transpose": -12,
+      "Instrument": 25,
       "AssignedCids": [
+        18014498575953305,
         18014498558170704,
         18014498566924221,
         0,
+        -1,
         -1
       ]
     }

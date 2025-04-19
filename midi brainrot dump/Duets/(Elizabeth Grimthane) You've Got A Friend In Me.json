@@ -1,0 +1,30 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Flute",
+      "Transpose": -12,
+      "Instrument": 5,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "Horn",
+      "Transpose": 0,
+      "Instrument": 18,
+      "AssignedCids": [
+        18014498575953305,
+        0,
+        -1
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}
