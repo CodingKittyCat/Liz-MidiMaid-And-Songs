@@ -1,0 +1,51 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Trompeta en Si♭ 1",
+      "Transpose": 0,
+      "Instrument": 24,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "Name": "Trompeta en Si♭ 2",
+      "Transpose": 0,
+      "Instrument": 24,
+      "AssignedCids": [
+        18014498572189347,
+        0
+      ]
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "Name": "Trombó",
+      "Transpose": 0,
+      "Instrument": 27,
+      "AssignedCids": [
+        18014498575953305,
+        0
+      ]
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "Name": "Tuba",
+      "Transpose": 0,
+      "Instrument": 27,
+      "AssignedCids": [
+        18014498575953305,
+        0
+      ]
+    }
+  ],
+  "ToneMode": 3,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}
